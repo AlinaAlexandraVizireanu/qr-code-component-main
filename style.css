@@ -48,3 +48,27 @@ a {
     padding: 15px 5px;
     border-radius: 15px;
 }
+
+@media(max-width: 375px) {
+    .container {
+        height: 470px;
+        width: 310px;
+        padding-bottom: 0;
+    }
+
+    img {
+        height: 290px;
+        width: 290px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 510px) {
+    .attribution {
+        max-width: 250px;
+        text-align: center;
+    }
+}

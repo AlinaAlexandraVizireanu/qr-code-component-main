@@ -65,10 +65,3 @@ a {
         font-size: 20px;
     }
 }
-
-@media(max-width: 510px) {
-    .attribution {
-        max-width: 250px;
-        text-align: center;
-    }
-}

@@ -18,7 +18,7 @@ A webpage who provdes a QR code component supporting Frontend Mentor Challenges.
 
 ### Screenshot
 
-![DesktopVerion](./design/DesktopVersion.jpg)
+![DesktopVersion](./design/DesktopVersion.jpg)
 ![MobileVersion](./design/MobileVersion.jpg)
 
 ### Links

@@ -29,7 +29,7 @@ A webpage who provdes a QR code component supporting Frontend Mentor Challenges.
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS custom propertiesmM
 - Flexbox
 
 ### What I learned
@@ -38,7 +38,7 @@ In the process of building the project I've recap Flexbox notions.
 
 ### Useful resources
 
-- [Example resource 1](https://flexbox.malven.co/) - This helped me for position the main container according to design needs. I'd recommend it to anyone still learning this concept.
+- [Flexbox cheatsheet](https://flexbox.malven.co/) - This helped me for position the main container according to design needs. I'd recommend it to anyone still learning this concept.
 
 ## Author
 

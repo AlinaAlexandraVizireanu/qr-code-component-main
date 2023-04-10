@@ -29,13 +29,9 @@ p {
 }
 
 img {
-    height: 260px;
-    width: 260px;
+    height: 290px;
+    width: 290px;
     border-radius: 10px;
-}
-
-a {
-    text-decoration: none;
 }
 
 .container {
@@ -43,8 +39,9 @@ a {
     background-color: hsl(0, 0%, 100%);
     flex-direction: column;
     align-items: center;
-    height: 420px;
-    width: 290px;
+    height: 470px;
+    width: 310px;
     padding: 15px 5px;
     border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
 }
